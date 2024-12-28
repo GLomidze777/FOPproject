@@ -1,7 +1,17 @@
-# Gela Lomidze Interpreter
+# Simple Interpreter Project
 
-An interpreter for a small arithmetic language subset. The project demonstrates how to tokenize, parse, and evaluate arithmetic expressions.
+This project is a simple interpreter for a basic language subset. It demonstrates:
+- Arithmetic operations
+- Conditional statements
+- Iterative loops
 
-## Team Members
-- **Gela Lomidze** - Sole developer.
+## Features
+- Sum of First N Numbers
+- Factorial Calculation
+- GCD of Two Numbers
+- Prime Check
+- Palindrome Check
 
+## How to Run
+1. Navigate to the project directory.
+2. Compile the code:
